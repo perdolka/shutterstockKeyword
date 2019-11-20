@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         ShutterKeyword
 // @icon         https://image.flaticon.com/icons/svg/174/174868.svg
+/* Icon made by Freepik from www.flaticon.com */
 // @namespace
 // @version      2.1
 // @description  Extract the keyword from Shutter Stock Preview Page
